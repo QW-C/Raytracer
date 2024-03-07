@@ -1,0 +1,10 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.pdb
+*.vsix
+.vs
+x64
